@@ -7,9 +7,9 @@
 - texture.png：程序中必需的图形文件。
 
  ## 依赖关系
-- Python $ \geq3.7 $
-- Numpy $ \geq1.15.2 $
-- PyOpenGL $ \geq3.1.3 $
+- Python>=3.7
+- Numpy>=1.15.2
+- PyOpenGL>=3.1.3
 - matplotlib
 
 ## 程序说明
